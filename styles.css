@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --subdued-color: hsl(200, 100%, 50%);
+  --text-color: hsl(200, 100%, 20%);
+  --avatar-size: 50px;
+  --grid-gap: 1rem;
+  --group-header-spacing: 1rem;
+}
